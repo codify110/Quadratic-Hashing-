@@ -15,3 +15,5 @@ For example: Let us consider a simple hash function as “key mod 7” and seque
 
 ![image](https://user-images.githubusercontent.com/69696459/131260570-5b9b2026-bd56-4814-817d-ce200e02a375.png)
 
+## OUTPUT:
+![image](https://user-images.githubusercontent.com/69696459/131260696-c719900f-0a02-4d87-b6b0-b8ab855373a0.png)
